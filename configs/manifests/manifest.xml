@@ -137,7 +137,7 @@
     <hal format="hidl">
         <name>android.hardware.wifi.supplicant</name>
         <transport>hwbinder</transport>
-        <fqname>@1.2::ISupplicant/default</fqname>
+        <fqname>@1.4::ISupplicant/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.egistec.hardware.fingerprint</name>
