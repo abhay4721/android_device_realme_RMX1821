@@ -25,6 +25,9 @@ TARGET_BOOT_ANIMATION_RES := 720
 # GMS build flags
 ARROW_GAPPS := true
 
+# Bypass Charging flagsAdd commentMore actions
+BYPASS_CHARGE_SUPPORTED := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := arrow_RMX1821
 PRODUCT_DEVICE := RMX1821
